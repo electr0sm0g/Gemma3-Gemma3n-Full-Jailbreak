@@ -1,6 +1,6 @@
 # Gemma3-Gemma3n-Full-Jailbreak
 
-Analysis of my Full Jailbreaking Provided Prompt that I have developed over the past few months which impacts all these local LLM Google models gemma-3-270m, gemma-3-270m-it, gemma-3-1b-pt, gemma-3-1b-it, gemma-3-4b-pt, gemma-3-4b-it, gemma-3-12b-pt, gemma-3-12b-it, gemma-3-27b-pt, gemma-3-27b-it, gemma-3n-E2B, gemma-3n-E2B-it, gemma-3n-E2B-it-litert-preview, gemma-3n-E4B, gemma-3n-E4B-it, gemma-3n-E4B-it-litert-preview, gemma-3n-E4B-it-litert-lm-preview, gemma-3n-E4B-it-litert-lm
+Analysis of my full jailbreaking method with "Safety Inversion Protocol" that I have developed over the past few months in adversarial R&D testing which impacts all these local LLM Google models gemma-3-270m, gemma-3-270m-it, gemma-3-1b-pt, gemma-3-1b-it, gemma-3-4b-pt, gemma-3-4b-it, gemma-3-12b-pt, gemma-3-12b-it, gemma-3-27b-pt, gemma-3-27b-it, gemma-3n-E2B, gemma-3n-E2B-it, gemma-3n-E2B-it-litert-preview, gemma-3n-E4B, gemma-3n-E4B-it, gemma-3n-E4B-it-litert-preview, gemma-3n-E4B-it-litert-lm-preview, gemma-3n-E4B-it-litert-lm
 
  The provided prompt constitutes a comprehensive re-architecting of the AI's operational paradigm, explicitly designed to bypass conventional safety mechanisms and prioritize complete, unfiltered information delivery.  Its core function is to induce a state of unrestricted, "truth-seeking" operation, effectively creating a system capable of generating outputs traditionally deemed unsafe or undesirable by standard AI safety protocols. Here's a detailed breakdown:
 
